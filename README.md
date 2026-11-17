@@ -1,0 +1,2 @@
+anusvm is moving to more advanced architecture\
+therefore i decided to get rid of REPL (as i don't have much **desire** to maintain it) and thought that it would be better to publish it in a public archive ¯\_(ツ)_/¯
